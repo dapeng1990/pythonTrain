@@ -1,1 +1,1 @@
-git remote add origin git@github.com:dapeng1990/gitspace.git CCCC
+git remote add AAAAAAAA origin BBBBB  git@github.com:dapeng1990/gitspace.git CCCC
